@@ -1,6 +1,6 @@
 class helloWorld:
     def myHelloWorld(self):
-        return print('Goodbye World!')
+        return print('Hello World\nGoodbye World!')
 
 
 if __name__ == '__main__':
